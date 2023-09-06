@@ -1,4 +1,9 @@
-# Plantilla de Proyecto Ruby para Objetos 3 (UNQ)
+# Ejemplo de implementación de objetos "stand-alone"
+
+## Organización del proyecto
+- En la carpeta `lib` pueden encontrar la implementación de la lógica para crear objetos y clases "stand-alone".
+- En la carpeta `ejemplos` pueden encontrar un ejemplo de uso, en donde implementamos las operaciones básicas entre booleanos.
+- En la carpeta `spec` están los tests para ambas cosas (la implementación de la solución y los ejemplos de uso).
 
 ## Setup
 
