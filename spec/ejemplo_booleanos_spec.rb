@@ -1,5 +1,5 @@
 require 'rspec'
-require 'examples/booleanos'
+require_relative '../ejemplos/booleanos'
 
 describe 'ejemplos de uso de stand-alone objects: booleanos' do
   it 'implementan el not' do
